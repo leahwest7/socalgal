@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "https://leahwest7.github.io/socalgal/"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://leahwest7.github.io/socalgal/gallery/"  
+  - JOURNAL: "https://leahwest7.github.io/socalgal/journal/"
+  - ABOUT: "https://leahwest7.github.io/socalgal/about/"
 
 # All translation keys
 translations:

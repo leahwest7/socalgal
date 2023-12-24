@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunbliss/photorama.git"
+    "url": "https://leahwest7.github.io/socalgal/"
   },
-  "author": "Anna Prigkipaki",
+  "author": "Leah West",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/sunbliss/photorama/issues"
-  },
-  "homepage": "http://sunbliss.github.io",
+  "homepage": "https://leahwest7.github.io/",
   "dependencies": {
     "searchkit": "^0.7.0"
   }
