@@ -2,8 +2,9 @@
 title: socalgal Photography
 email: ""
 description: "Photo Journal"
-url: "https://leahwest7.github.io/socalgal/"
+url: "https://leahwest7.github.io"
 baseurl: "/socalgal"
+# baseurl: "http://127.0.0.1:4000/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
